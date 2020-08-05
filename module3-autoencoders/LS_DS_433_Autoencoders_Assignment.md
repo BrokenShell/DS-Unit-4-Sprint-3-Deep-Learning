@@ -11,3 +11,5 @@ Read About the History of General Artificial Intelligence Research, the future o
 * [Yann LeCunn Interview](https://www.youtube.com/watch?v=SGSOCuByo24)
 
 Enjoy!  :coffee:
+
+Enjoyed, with coffee!
